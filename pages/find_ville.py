@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # Clé API d'OpenWeather
-key = st.secrets("API_KEY")
+key = st.secrets["API_KEY"]
 
 
 # Fonction pour obtenir la localisation d'une ville
