@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import streamlit.components.v1 as components
 import pydeck as pdk
+import os
 
 # Mise en forme CSS pour la page
 st.set_page_config(
