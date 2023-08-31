@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://www.data.gouv.fr/
+HostUrl=https://static.data.gouv.fr/resources/villes-de-france/20220928-173607/cities.csv
